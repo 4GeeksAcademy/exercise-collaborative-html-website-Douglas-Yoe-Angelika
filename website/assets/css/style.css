@@ -2,8 +2,12 @@ body{
     background: white;
 }
 
-.navbar-nav .nav-link {
-    font-size: 14px!important;
+#logo {
+    font-size: 1em!important;
+}
+
+.navitem {
+    font-size: 8px!important;
 }
 
 .header {
